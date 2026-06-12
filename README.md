@@ -62,9 +62,6 @@ Sistema SaaS de punto de venta diseñado para pequeños y medianos negocios.
 - ☁️ Plataforma en la nube
 - 🎨 Interfaz moderna y optimizada
 
----
-
-# Estadísticas
 
 <div align="center">
 
@@ -74,9 +71,6 @@ Sistema SaaS de punto de venta diseñado para pequeños y medianos negocios.
 
 </div>
 
----
-
-# Racha de Contribuciones
 
 <div align="center">
 
@@ -84,17 +78,11 @@ Sistema SaaS de punto de venta diseñado para pequeños y medianos negocios.
 
 </div>
 
----
-
-# 🏆 Trofeos
 
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=tc-felxpe&theme=tokyonight&margin-w=15&margin-h=15" alt="Mis Trofeos"/>
 </div>
 
----
-
-# 🐍 Animación de Contribuciones
 
 <div align="center">
   <picture>
@@ -104,31 +92,9 @@ Sistema SaaS de punto de venta diseñado para pequeños y medianos negocios.
   </picture>
 </div>
 
----
-
-# ⚡ Filosofía
-
 > "Construir es la mejor solucion."
 
----
+
 
 <div align="center">
 
-### 🚀 Construyendo el futuro, una línea de código a la vez.
-
-</div>## Hi there 👋
-
-<!--
-**tc-felxpe/tc-felxpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
